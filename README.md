@@ -1,14 +1,14 @@
-<img src="https://raw.githubusercontent.com/rwardman/rwardman/main/header_image.png" alt="banner that contains some abstract purple and blue illustrations and the words Rosie Wardman Sofware Engineer">
+<img src="https://raw.githubusercontent.com/rwardman/rwardman/main/header_image.png" alt="banner that contains some abstract purple and blue illustrations on a white background that looks like sqiared paper and the words Rosie Wardman Sofware Engineer">
 
-### Hi there 👋
+# 🌸 Hi!
 
-I'm Rosie, I'm a software developer living in London. I'm a full stack developer with experience in front-end, back-end and app development. Some technologies I enjoy working with are React, Java, Kotlin and React Native.
+I'm Rosie, I'm a software engineer living in London. I'm a full stack developer with experience in front-end, back-end and app development. Some technologies I enjoy working with are React, Java, Kotlin and React Native. Right now I'm learning GraphQL.
 
-Outside of work I love to sew, and make clothes that are made just for me.
+Outside of work I love to sew, and create clothes that are made just for me. You'll also find me running around the parks of west London.
 
-#### Get in touch
+## 👋 Get in touch
 
-Contact me via [LinkedIn](https://www.linkedin.com/in/rosiewardman/) -
+Contact me via [LinkedIn](https://www.linkedin.com/in/rosiewardman/) 💼
 
 <!--
 **rwardman/rwardman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
