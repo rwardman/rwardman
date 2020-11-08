@@ -1,5 +1,15 @@
+![Header](https://raw.githubusercontent.com/rwardman/<OWNER>/<OWNER>/header_image.png "Header")
+
 ### Hi there 👋
-I'm Rosie, I'm a softwware developing living in London. I'm a full stack developer with a passion for Diveristy and Inclusion.
+
+I'm Rosie, I'm a software developer living in London. I'm a full stack developer with experience in front-end, back-end and app development. Some technologies I enjoy working with are React, Java, Kotlin and React Native.
+
+Outside of work I love to sew, and make clothes that are made just for me.
+
+#### Get in touch
+
+Contact me via [LinkedIn](https://www.linkedin.com/in/rosiewardman/) -
+
 <!--
 **rwardman/rwardman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
