@@ -1,4 +1,4 @@
-![Header](https://raw.githubusercontent.com/rwardman/<OWNER>/<OWNER>/header_image.png "Header")
+<img src="https://raw.githubusercontent.com/rwardman/rwardman/main/header_image.png" alt="banner that contains some abstract purple and blue illustrations and the words Rosie Wardman Sofware Engineer">
 
 ### Hi there 👋
 
