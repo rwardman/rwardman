@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/rwardman/rwardman/main/header_image.png" alt="banner that contains some abstract purple and blue illustrations on a white background that looks like sqiared paper and the words Rosie Wardman Sofware Engineer">
 
-# 🌸 Hi!
+# 🌸 About me
 
 I'm Rosie, I'm a software engineer living in London. I'm a full stack developer with experience in front-end, back-end and app development. Some technologies I enjoy working with are React, Java, Kotlin and React Native. Right now I'm learning GraphQL.
 
