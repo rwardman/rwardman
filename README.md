@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+I'm Rosie, I'm a softwware developing living in London. I'm a full stack developer with a passion for Diveristy and Inclusion.
 <!--
 **rwardman/rwardman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
