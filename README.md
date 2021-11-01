@@ -4,7 +4,7 @@
 
 I'm Rosie, I'm a software engineer living in London. I'm a full stack developer with experience in front-end, back-end and app development. Some technologies I enjoy working with are React, Java, Kotlin and React Native. Right now I'm learning GraphQL.
 
-Outside of work I love to sew, and create clothes that are made just for me. You'll also find me running around the parks of west London.
+Outside of work I love to sew, and create clothes that are made just for me. I also like to run and swim.
 
 ## 👋 Get in touch
 
