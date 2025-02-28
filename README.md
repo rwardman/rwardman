@@ -2,7 +2,7 @@
 
 # 🌸 About me
 
-I'm Rosie, I'm an Engineering Manager working in London. I have experience as a full stack developer having worked in front-end, back-end and app development. Some technologies I enjoy working with are React, Java, Kotlin and React Native. Right now I'm learning GraphQL.
+I'm Rosie, I'm an Engineering Manager working in London. I have experience as a full stack developer having worked in front-end, back-end and app development. Some technologies I enjoy working with are React, Typescript, Java, Kotlin and React Native. Right now I'm learning NextJS.
 
 Outside of work I love to sew, and create clothes that are made just for me. I also like to run and swim.
 
